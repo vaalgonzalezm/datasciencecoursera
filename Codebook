@@ -1,0 +1,12 @@
+## Getting and Cleaning Data Project
+## Codebook
+
+## The original data was...
+1. Merged to create one dataset with both training and test sets.
+2. Extracted the measurements on the mean and sd for each measurement.
+3. Used descriptvie activity names to name activities in dataset.
+4. Labeled the data appropriately.
+5. Created a second tidy dataset with the average of each value of each variable for each activity and subject.
+
+## R Script
+The file named "run_analysis.R" contains the code that performs the instructions of the assignment
